@@ -1,2 +1,0 @@
-[21-Jun-2019 00:11:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/findsellfulfil/public_html/app/admin/categories/add-category.php on line 5
-[21-Jun-2019 00:11:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/findsellfulfil/public_html/app/admin/categories/add-category.php on line 5
