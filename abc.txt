@@ -1,0 +1,11 @@
+Database Details:
+DB NAME: findsell_newapp
+DB USER: findsell_nadmin
+DB PASS: JVF@94%rS4z^
+
+
+Blue -> #00C2F3
+Blue Dark -> #0090b5
+
+Orange -> #F2681B
+Orange Dark -> #bf4e0f

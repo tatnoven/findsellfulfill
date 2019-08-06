@@ -1,0 +1,9 @@
+[19-Jun-2019 08:25:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/findsellfulfil/public_html/app/admin/products/index.php on line 64
+[19-Jun-2019 08:26:10 UTC] PHP Warning:  require_once(../connect.php): failed to open stream: No such file or directory in /home/findsellfulfil/public_html/app/admin/products/index.php on line 2
+[19-Jun-2019 08:26:10 UTC] PHP Fatal error:  require_once(): Failed opening required '../connect.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/findsellfulfil/public_html/app/admin/products/index.php on line 2
+[19-Jun-2019 08:58:28 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/findsellfulfil/public_html/app/admin/products/delete.php on line 12
+[19-Jun-2019 08:58:36 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/findsellfulfil/public_html/app/admin/products/delete.php on line 12
+[19-Jun-2019 09:05:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/findsellfulfil/public_html/app/admin/products/index.php on line 95
+[20-Jun-2019 21:13:46 UTC] PHP Warning:  rmdir(../../uploads/products/1): Directory not empty in /home/findsellfulfil/public_html/app/admin/products/delete.php on line 16
+[20-Jun-2019 21:14:25 UTC] PHP Warning:  rmdir(../../uploads/products/1/): Directory not empty in /home/findsellfulfil/public_html/app/admin/products/delete.php on line 16
+[20-Jun-2019 21:14:38 UTC] PHP Warning:  rmdir(../../uploads/products/1/): Directory not empty in /home/findsellfulfil/public_html/app/admin/products/delete.php on line 16

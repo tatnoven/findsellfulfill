@@ -1,0 +1,92 @@
+.intro{
+    margin-bottom:30px;
+}
+
+.striped-table{
+    width:100%;
+}
+
+.striped-table th{
+    background-color:#0090b5;
+    color:#fff;
+    text-align:center;
+    padding:7px;
+    font-size:16px;
+}
+
+.striped-table td{
+    padding:5px;
+    text-align:center;
+    border:1px solid #0090b5;
+}
+
+.table-button-positive{
+    background-color:#367f23;
+    color:#fff;
+    padding:5px 10px;
+    text-decoration:none;
+}
+.table-button-positive:hover{
+    background-color:#43aa29;
+}
+
+.table-button-negative{
+    background-color:#a80303;
+    color:#fff;
+    padding:5px 10px;
+    text-decoration:none;
+}
+.table-button-negative:hover{
+    background-color:#f94040;
+}
+#header-menu{
+    background-color:#0090b5;
+}
+
+#header-menu ul{
+    list-style-type:none;
+    text-align:center;
+}
+
+#header-menu ul li{
+    display:inline-block;
+
+}
+
+#header-menu ul li a{
+    display:inline-block;
+    padding:7px 15px;
+    text-decoration:none;
+    color:#fff;
+}
+#header-menu ul li a:hover{
+    transition-duration:0.8s;
+    background-color:#00C2F3;
+}
+
+
+
+#footer-menu{
+    background-color:#000;
+}
+
+#footer-menu ul{
+    list-style-type:none;
+    text-align:center;
+}
+
+#footer-menu ul li{
+    display:inline-block;
+
+}
+
+#footer-menu ul li a{
+    display:inline-block;
+    padding:7px 15px;
+    text-decoration:none;
+    color:#fff;
+}
+#footer-menu ul li a:hover{
+    transition-duration:0.8s;
+    background-color:#00C2F3;
+}
